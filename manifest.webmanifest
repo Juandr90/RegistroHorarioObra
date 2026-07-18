@@ -1,0 +1,28 @@
+{
+  "name": "Registro Horario Obra",
+  "short_name": "Reg. Horario",
+  "description": "Control de jornada laboral en obra",
+  "start_url": "/RegistroHorarioObra/",
+  "scope": "/RegistroHorarioObra/",
+  "display": "standalone",
+  "background_color": "#20242A",
+  "theme_color": "#20242A",
+  "icons": [
+    {
+      "src": "icons/favicon-16-v2.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/favicon-32-v2.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/apple-touch-icon-v2.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
